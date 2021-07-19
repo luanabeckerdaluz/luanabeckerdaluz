@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello, I'm Leonardo! 👋
 
-<!--
-**leobeckerdaluz/leobeckerdaluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a MSc student in Space Engineering and Technology!
+- 🤓 Computer Engineer
+- 📊 My current research interests include Multidisciplinary Optimization and Evolutionary Algorithms
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+[<img align="center" alt="leobeckerdaluz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/leonardo-becker-da-luz-460872164/]  | 
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  [![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=leobeckerdaluz)](https://github-readme-stats.vercel.app/api?username=leobeckerdaluz)
+  
+</details>
