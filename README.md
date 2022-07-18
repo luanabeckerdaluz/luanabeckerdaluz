@@ -3,7 +3,7 @@
 ## I'm a MSc student in Space Engineering and Technology!
 - 🤓 Computer Engineer
 - 🚀 MSc student - National Institute for Space Research (INPE)
-- 📊 My current research interests include Optimization, Evolutionary Algorithms and Big Earth Observation Data
+- 📊 My current research interests include Optimization, Remote Sensing and Big Earth Observation Data.
 
 ---
 
