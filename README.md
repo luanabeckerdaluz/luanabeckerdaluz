@@ -15,4 +15,4 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-@luanalbdl-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/luanalbdl/)](https://instagram.com/luanalbdl)
 
-[<img align="center" alt="luanabeckerdaluz | Lattes" width="22px" src="https://ufmg.br/thumbor/jKht0gK_EKiWGANsvxCB7ORa9_4=/27x0:396x247/712x474/https://ufmg.br/storage/d/4/9/9/d499bf9074133db295373575066f97e4_15622676670826_972558144.png"/>](http://lattes.cnpq.br/8811631270161746) <a href="http://lattes.cnpq.br/8811631270161746"> Currículo Lattes</a>
+[<img align="center" alt="luanabeckerdaluz | Lattes" width="22px" src="https://ufmg.br/thumbor/jKht0gK_EKiWGANsvxCB7ORa9_4=/27x0:396x247/712x474/https://ufmg.br/storage/d/4/9/9/d499bf9074133db295373575066f97e4_15622676670826_972558144.png"/>](http://lattes.cnpq.br/2242180170816521) <a href="http://lattes.cnpq.br/2242180170816521"> Currículo Lattes</a>
