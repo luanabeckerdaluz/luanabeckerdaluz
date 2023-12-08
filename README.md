@@ -3,7 +3,7 @@
 
 ---
 - 🤓 Computer Engineer and MSc in Space Engineering and Technology
-- 📊 My current research interests include Remote Sensing, Big Earth Observation Data and Geospatial Big Data.
+- 📊 My current research interests include Geoinformatics and Geospatial Data Science.
 
 ---
 
