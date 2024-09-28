@@ -22,7 +22,7 @@
 
 ---
 
-Languages and Tools:
+Languages and tools:
 <p align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/R_dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -40,7 +40,7 @@ Languages and Tools:
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
-My Daily Environment:
+My daily environment:
 <p align="center">
   <img src="https://img.shields.io/badge/Ubuntu.22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
