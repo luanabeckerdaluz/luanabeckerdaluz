@@ -1,4 +1,4 @@
-<h3 align="center">Hello world 👩‍💻</h3>
+<h3 align="center">Hello world, I'm Luana 👩‍💻</h3>
 
 <div align="center">
   
