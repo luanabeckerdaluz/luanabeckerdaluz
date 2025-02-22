@@ -14,7 +14,7 @@
   <tr>
     <td>
       <ul>
-        <li><p>🛰️💻 My research interests include geospatial data science, geoinformatics and geoprocessing </p></li>
+        <p>🛰️💻 My research interests include geospatial data science, geoinformatics and geoprocessing </p>
       </ul>
     </td>
   </tr>
